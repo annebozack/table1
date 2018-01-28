@@ -1,0 +1,10 @@
+Package: table1
+Title: Create "Table 1" of descriptive statistics
+Version: 0.0.0.9000
+Authors@R: person("Anne", "Bozack", email = "anne.bozack@gmail.com", role = c("aut", "cre"))
+Description: For continuous variables: meanTab produces a table with the mean, SD, and N missing of each variable for each group, and a p-value for the Wilcoxon rank-sum test comparing groups (if group is specified). For categorical variables: meanFreq produces a table with the frequency, proportion, and N missing for each variable, and p-value for the Chi-squared test comparing groups (if group is specified)
+Depends: R (>= 3.4.0)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1.9000
